@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkLection15</string>
+    <string name="btnSave">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="firstName">Enter first name</string>
+    <string name="lastName">Enter last name</string>
+    <string name="age">Enter age</string>
+    <string name="itemSettings">Settings</string>
+    <string name="languagePreferencesTitle">Select language</string>
+</resources>

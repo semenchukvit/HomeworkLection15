@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашнє завдання 15</string>
+    <string name="btnSave">Зберегти</string>
+    <string name="btnCancel">Відміна</string>
+    <string name="firstName">Вкажіть ім\'я</string>
+    <string name="lastName">Вкажіть прізвище</string>
+    <string name="age">Вкажіть вік</string>
+</resources>
